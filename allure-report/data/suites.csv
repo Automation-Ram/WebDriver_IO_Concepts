@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 17 11:30:19 IST 2024","Wed Jan 17 11:30:29 IST 2024","9386","","Elements Commands","","","","Register filling form",""
+"passed","Wed Jan 17 11:30:19 IST 2024","Wed Jan 17 11:30:19 IST 2024","7","","Smoke Test","","","","Verify URL",""
+"passed","Wed Jan 17 11:30:19 IST 2024","Wed Jan 17 11:30:24 IST 2024","4769","","Intraction with WebElements","","","","Verify URL",""
+"broken","Wed Jan 17 11:30:19 IST 2024","Wed Jan 17 11:30:23 IST 2024","4102","","Find Multiple Elements","","","","Count the number of icon",""
+"passed","Wed Jan 17 11:30:25 IST 2024","Wed Jan 17 11:30:27 IST 2024","2245","","Intraction with WebElements","","","","verify login",""
+"passed","Wed Jan 17 11:30:24 IST 2024","Wed Jan 17 11:30:25 IST 2024","609","","Intraction with WebElements","","","","verify title",""
